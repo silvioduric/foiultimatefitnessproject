@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Zastita datoteke privatno"
+AuthUserFile /var/www/webdip.barka.foi.hr/2016_projekti/WebDiP2016x034/Teretana/privatno/.htpasswd
+Require valid-user
